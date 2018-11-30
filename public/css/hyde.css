@@ -250,6 +250,9 @@ a.sidebar-nav-item:focus {
 }
 
 /* Share icons */
+.share-icons {
+    display: inline;
+}
 .share-icons button {
   border: none;
   cursor: pointer;
