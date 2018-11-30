@@ -4,7 +4,6 @@ title: The Game Asset Pipeline
 ---
 
 *Make Game Ready Assets in a Blink using Dust3D*  
-*http://blogs.dust3d.org/2018/11/29/the-game-asset-pipeline/*
 
 Table of Contents
 ---------------
