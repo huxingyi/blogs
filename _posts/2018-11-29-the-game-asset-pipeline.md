@@ -12,7 +12,7 @@ Table of Contents
 3. [Import to Godot](#ImportToGodot)
 4. [Further Edit in Other Tools](#FurtherEditInOtherTools)
 5. [What's Next?](#WhatsNext)
-6. [Want More?](#WantMore)
+6. [Files](#Files)
 
 How to Make a 3D Model <a name="HowToMakeA3DModel"></a>
 ---------------
@@ -83,6 +83,7 @@ You can compose of poses and even sub motions as one motion.
 <img src="/public/attachments/2018-11-29-the-game-asset-pipeline/images/items-list-of-motion-editor-dust3d.png" width="456" height="267">
 Right click the interpolating buttons to adjust the bouncing setting, which was mentioned in David Rosen's GDC talk [An Indie Approach to Procedural Animation](http://www.gdcvault.com/play/1020583/Animation-Bootcamp-An-Indie-Approach) as `Spring Interpolation`.
 
-Want More? <a name="WantMore"></a>
+Files <a name="Files"></a>
 ---------------
-(TO BE CONTINUED)
+- <a href="/public/attachments/2018-11-29-the-game-asset-pipeline/guitar.ds3">guitar.ds3</a>
+- <a href="/public/attachments/2018-11-29-the-game-asset-pipeline/camel.ds3">camel.ds3</a>
