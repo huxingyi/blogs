@@ -36,6 +36,19 @@ layout: default
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><rect height="11" width="4" x="3" y="9"></rect><circle cx="5" cy="5" r="2"></circle><path d="M16.5,8.25A4.47251,4.47251,0,0,0,13,9.95343V9H9V20h4V13a2,2,0,0,1,4,0v7h4V12.75A4.5,4.5,0,0,0,16.5,8.25Z"></path></svg>
       </button>
   </span>
+
+  <div id='discourse-comments'></div>
+
+  <script type="text/javascript">
+    DiscourseEmbed = { discourseUrl: 'https://dust3d.discourse.group/',
+                     discourseEmbedUrl: '{{ site.url }}{{ page.url }}' };
+
+    (function() {
+    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+    d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+    })();
+  </script>
 </div>
 
 <div class="related">
