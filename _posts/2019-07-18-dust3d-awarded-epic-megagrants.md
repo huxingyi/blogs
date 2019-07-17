@@ -8,12 +8,12 @@ I am very excited to share that Dust3D has been awarded Epic MegaGrants.
 ![](https://blogs.dust3d.org/public/attachments/2019-07-18-dust3d-awarded-epic-megagrants/dust3d-epic-megagrants-480.png)   
 
 Dust3D is a 3D modeling software for quick making game assets with texture and rig automatically generated, it supports Linux, MacOS, and Windows. And it's fully opensourced since the first day,
-https://github.com/huxingyi/dust3d  
+[https://github.com/huxingyi/dust3d](https://github.com/huxingyi/dust3d)  
 
 Epic MegaGrants is a funding provided by Epic Games,  
 
 > to support game developers, enterprise professionals, media and entertainment creators, students, educators, and tool developers doing amazing things with Unreal Engine or enhancing open-source capabilities for the 3D graphics community.
-https://www.unrealengine.com/en-US/megagrants
+[https://www.unrealengine.com/en-US/megagrants](https://www.unrealengine.com/en-US/megagrants)  
 
 Thank you Epic Games and all the contributors,
 
