@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Procedural 3D Model Generation in Dust3D
+image: https://blogs.dust3d.org/public/attachments/2019-08-01-procedural-3d-model-generation-in-dust3d/dust3d-procedural-tree.png
 ---
 
 In this article, I will try to introduce you the **Procedural Generation** feature in [Dust3D](https://github.com/huxingyi/dust3d) using JavaScript.

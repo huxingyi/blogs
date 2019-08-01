@@ -5,6 +5,14 @@
 
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+  {% if page.image %}
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:image" content="{{ page.image }}" />
+  {% endif %}
+  {% if page.title == "Home" %}
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:image" content="https://blogs.dust3d.org/public/blogs-image.png" />
+  {% endif %}
 
   <script src="/public/js/sharer.min.js"></script>
 
