@@ -9,11 +9,17 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:image" content="{{ page.image }}" />
   <meta name="twitter:title" content="{{ page.title }} &middot; {{ site.title }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{{ page.title }} &middot; {{ site.title }}" />
+  <meta property="og:image" content="{{ page.image }}" />
   {% else %}
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:image" content="https://blogs.dust3d.org/public/blogs-image.png" />
   <meta name="twitter:title" content="{{ site.title }} &middot; {{ site.tagline }}" />
   <meta name="twitter:description" content="Dust3D is a free open-source 3D modeling software for quick making game assets with texture and rig automatically generated. It supports Linux, MacOS, and Windows." />
+  <meta name="og:image" content="https://blogs.dust3d.org/public/blogs-image.png" />
+  <meta name="og:title" content="{{ site.title }} &middot; {{ site.tagline }}" />
+  <meta name="og:description" content="Dust3D is a free open-source 3D modeling software for quick making game assets with texture and rig automatically generated. It supports Linux, MacOS, and Windows." />
   {% endif %}
 
   <script src="/public/js/sharer.min.js"></script>
