@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why I rewrote the mesh generator of Dust3D from Rust to C++
+image: https://pbs.twimg.com/media/D1MxDcTVsAAzKDK.jpg
 ---
 
 Dust3D is a quick 3D modeling software. It automatically generates a

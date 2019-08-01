@@ -8,10 +8,11 @@
   {% if page.image %}
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:image" content="{{ page.image }}" />
-  {% endif %}
-  {% if page.title == "Home" %}
+  <meta name="twitter:title" content="{{ page.title }} &middot; {{ site.title }}" />
+  {% else %}
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:image" content="https://blogs.dust3d.org/public/blogs-image.png" />
+  <meta name="twitter:title" content="{{ site.title }} &middot; {{ site.tagline }}" />
   {% endif %}
 
   <script src="/public/js/sharer.min.js"></script>

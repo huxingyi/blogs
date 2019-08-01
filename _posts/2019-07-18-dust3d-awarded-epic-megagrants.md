@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dust3D awarded Epic MegaGrants
+image: https://blogs.dust3d.org/public/attachments/2019-07-18-dust3d-awarded-epic-megagrants/dust3d-epic-megagrants-480.png
 ---
 
 I am very excited to share that Dust3D has been awarded Epic MegaGrants.  

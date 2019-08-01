@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dust3D on Raspberry Pi 3 Model B+
+image: https://blogs.dust3d.org/public/attachments/2019-07-09-dust3d-on-raspberry-pi-3-model-b-plus/dust3d-on-raspberry-pi-480.png
 ---
 
 My friend Kevin Liang, who helped me 3D printed many cool Dust3D models, bought a [Raspberry Pi 3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/), the first thing to do when he received this tiny size computer is to run [Dust3D](https://github.com/huxingyi/dust3d), the same tiny size 3D modeling software.  
