@@ -4,7 +4,7 @@ title: New Features in Dust3D 1.0.0-rc.1
 image: https://blogs.dust3d.org/public/attachments/2020-03-01-new-features-in-dust3d-1.0.0-rc.1/dust3d-1.0.0-rc.1.pose-editor.png
 ---
 
-[Dust3D](https://github.com/huxingyi/dust3d) is a 3D modeling software for indie developers to quick create video game characters. The are many new features been introduced in this release candidate version: [Dust3D 1.0.0-rc.1](https://github.com/huxingyi/dust3d/releases/tag/1.0.0-rc.1)
+[Dust3D](https://github.com/huxingyi/dust3d) is a 3D modeling software for indie developers to quick create video game characters. There are many new features been introduced in this release candidate version: [Dust3D 1.0.0-rc.1](https://github.com/huxingyi/dust3d/releases/tag/1.0.0-rc.1)
 
 New Rig Generator
 --------------------------
