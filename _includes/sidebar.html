@@ -1,3 +1,11 @@
+<style>
+@media (min-width: 48em) {
+    .center-stuff {
+        display: flex;
+        justify-content: center;
+    }
+}
+</style>
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
@@ -7,7 +15,7 @@
         </a>
       </h1>
       <p class="lead">{{ site.description }}</p>
-      <div style="display: flex; justify-content: center;">
+      <div class="center-stuff">
           <a href="https://blogs.dust3d.org/2019/07/18/dust3d-awarded-epic-megagrants/"><img width="128" height="128" src="https://dust3d.org/images/Epic_MegaGrants_Recipient_logo_White.png" /></a>
       </div>
     </div>
